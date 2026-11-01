@@ -1,5 +1,13 @@
 # Unidad IV · Semana 10 — Autenticación con JWT en FastAPI
 
+<!-- teaser:start -->
+<p align="center">
+<img src="docs/screenshots/01-login-200.jpg" width="32%" alt="Inicio de sesión con OAuth2 que devuelve un token JWT (200)"> <img src="docs/screenshots/02-ruta-privada-200.jpg" width="32%" alt="Acceso a una ruta protegida usando el token Bearer"> <img src="docs/screenshots/03-admin-403.jpg" width="32%" alt="Ruta de administrador rechazada con 403 para un usuario sin permisos">
+</p>
+
+<!-- teaser:end -->
+
+
 API con FastAPI que implementa login con JWT, endpoints públicos, privados y con control de rol.
 
 ## Cómo ejecutar
